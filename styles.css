@@ -86,6 +86,10 @@ textarea:focus {
   color: #000;
 }
 
+.form select:focus {
+  outline: none;
+}
+
 .form textarea {
   width: 476px;
   height: 159px;
